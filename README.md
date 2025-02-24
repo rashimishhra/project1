@@ -10,3 +10,4 @@
 
  Also, while comparing, I have changed the durations provided in months, weeks, and even sitting days to simply days, for the ease of calculation. Although if there is any difference adhering to Parliamentary suspensions of sitting days and days in the UK, I couldn't find. 
 
+Here is the story link - https://rashimishhra.github.io/project1/
